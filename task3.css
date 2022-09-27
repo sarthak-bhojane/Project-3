@@ -1,0 +1,31 @@
+#para{
+    display: inline;
+    color: white;
+}
+.nav1{
+    display: inline;
+   margin-left: 4rem;
+   text-decoration: none;
+   color: white;
+}
+nav{
+    display: inline;
+   margin-left: 15rem;
+}
+body{
+    background-image: url("road.jpg");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+}
+input[type="text"]{
+    margin: 50px;
+    padding: 10px;
+    border-radius: 20px;
+    outline: none !important;
+    border-width: 1px;
+    box-shadow: 0 0 10px gray;
+    color: rgba(128, 128, 128, 2.5);
+    background-color: rgba(10, 10, 10, 0.7);
+    border-color: black;
+}
